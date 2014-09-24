@@ -1,0 +1,6 @@
+c:\users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\GCMPracticum.exe.config
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\GCMPracticum.exe
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\GCMPracticum.pdb
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\obj\Debug\GCMPracticum.exe
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\obj\Debug\GCMPracticum.pdb
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\obj\Debug\GCMPracticum.csprojResolveAssemblyReference.cache

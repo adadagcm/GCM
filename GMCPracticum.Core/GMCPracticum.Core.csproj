@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A608A456-441B-4714-A071-5820B951C703}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GMCPracticum.Core</RootNamespace>
+    <AssemblyName>GMCPracticum.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseClass\MealMenuBase.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="Enumerations\Enums.cs" />
+    <Compile Include="Exceptions\EmptyMealRenderException.cs" />
+    <Compile Include="Exceptions\DuplicateMenuTypeException.cs" />
+    <Compile Include="Exceptions\InvalidMenuTypeException.cs" />
+    <Compile Include="Extensions.cs" />
+    <Compile Include="Interfaces\IMealMenu.cs" />
+    <Compile Include="Interfaces\IMealOrder.cs" />
+    <Compile Include="Interfaces\IMealRenderer.cs" />
+    <Compile Include="Interfaces\IMealRenderResult.cs" />
+    <Compile Include="Interfaces\IMenuOption.cs" />
+    <Compile Include="MealMenus\MorningMealMenu.cs" />
+    <Compile Include="MealMenus\NightMealsMenu.cs" />
+    <Compile Include="DomainObjects\BasicMealOrder.cs" />
+    <Compile Include="RenderObjects\BasicMealRenderer.cs" />
+    <Compile Include="DomainObjects\BasicMealRenderResult.cs" />
+    <Compile Include="DomainObjects\BasicMenuOption.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

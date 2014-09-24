@@ -1,0 +1,9 @@
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum.Tests\bin\Debug\GCMPracticum.Tests.dll
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum.Tests\bin\Debug\GCMPracticum.Tests.pdb
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum.Tests\obj\Debug\GCMPracticum.Tests.csprojResolveAssemblyReference.cache
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum.Tests\obj\Debug\GCMPracticum.Tests.dll
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum.Tests\obj\Debug\GCMPracticum.Tests.pdb
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum.Tests\bin\Debug\nunit.framework.dll
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum.Tests\bin\Debug\nunit.framework.xml
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum.Tests\bin\Debug\GMCPracticum.Core.dll
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum.Tests\bin\Debug\GMCPracticum.Core.pdb

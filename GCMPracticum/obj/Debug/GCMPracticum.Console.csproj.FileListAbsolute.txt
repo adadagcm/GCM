@@ -1,0 +1,14 @@
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\GCMPracticum.exe.config
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\GCMPracticum.exe
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\GCMPracticum.pdb
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\obj\Debug\GCMPracticum.Console.csprojResolveAssemblyReference.cache
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\obj\Debug\GCMPracticum.exe
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\obj\Debug\GCMPracticum.pdb
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\GMCPracticum.Core.dll
+C:\Users\adadavm\documents\visual studio 2013\Projects\GCMPracticum\GCMPracticum\bin\Debug\GMCPracticum.Core.pdb
